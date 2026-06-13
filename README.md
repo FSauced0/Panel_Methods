@@ -1,4 +1,4 @@
-# Source Panel Method — NACA 0012
+# Panel Methods
 
 ## Why This Project?
 Panel methods were barely touched on in my low-speed aerodynamics course, and my natural curiosity with a love for aerodynamics and modeling pushed me to go deeper. I wanted to teach myself through Google searches, YouTube videos, and the help with AI.
