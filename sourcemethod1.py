@@ -1,3 +1,11 @@
+#PANEL METHOD AIRFOIL SOLVER
+#Written by: Fabian Saucedo
+
+#Status: Does work 
+
+#Notes: 
+#THIS IS A SOURCE PANEL METHOD ONLY
+#Works only for non-lifting bodies or symmeterical airfoils at 0AOA
 import numpy as np
 import math as m
 import matplotlib.pyplot as plt
