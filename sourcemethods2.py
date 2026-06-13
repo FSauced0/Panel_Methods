@@ -20,7 +20,6 @@ print(f"Number of panels: {numPan}")
 
 # =============================================================================
 # ENFORCE COUNTER-CLOCKWISE (CCW) ORDERING
-# Katz & Plotkin convention: panels go TE→lower→LE→upper→TE (CCW)
 # Shoelace sum negative = CCW
 # =============================================================================
 edge = np.zeros(numPan)
